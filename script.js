@@ -13,5 +13,5 @@ console.log(car.color);
 
 let carName1 = "volvo";
 
-document.getElementById("1").innerHTML = "Hello";
-document.getElementById("2").innerHTML = "Bye";
+document.getElementById("one").innerHTML = "Hello";
+document.getElementById("two").innerHTML = "Bye";

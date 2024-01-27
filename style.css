@@ -1,0 +1,9 @@
+#one:hover{
+    transform: translateY(75px);
+    transition: all 1.0s;
+}
+
+#two:hover{
+    transform: translateY(-50px);
+    transition: all 1.0s;
+}
